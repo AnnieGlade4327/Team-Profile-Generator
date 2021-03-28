@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "inquirer": "^8.0.0",
-    "jest": "^26.6.3",
     "node.js": "^0.0.1-security"
   },
   "name": "team-profile-generator",
@@ -23,5 +22,8 @@
   "homepage": "https://github.com/AnnieGlade4327/Team-Profile-Generator#readme",
   "directories": {
     "lib": "lib"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
   }
 }
