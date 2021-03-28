@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "node.js": "^0.0.1-security"
+  },
+  "name": "team-profile-generator",
+  "description": "generate a team profile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnieGlade4327/Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnieGlade4327/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/AnnieGlade4327/Team-Profile-Generator#readme"
+}
