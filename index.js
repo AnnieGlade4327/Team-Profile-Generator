@@ -23,8 +23,8 @@ function Prompt() {
       },
       {
         type: "text",
-        name: "Employee",
-        message: "What is the Employee's name?",
+        name: "employee",
+        message: "What is the employee's name?",
       },
       {
         type: "text",
