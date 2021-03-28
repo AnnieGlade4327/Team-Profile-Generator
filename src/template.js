@@ -28,7 +28,7 @@ const generateCards = teamData => {
 
     const intern = teamData.intern.map(function(job) {
         let internHtml = `
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 220px;">
             <h2>${job.name}</h2>
             <h4>Intern<h4>
             <p>ID: ${job.id}</p>
