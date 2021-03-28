@@ -2,7 +2,7 @@ const generateCards = teamData => {
  
     const manager = teamData.manager.map(function(job) {
         let managerHtml = `
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 250px;">
             <h2>${job.name}</h2>
             <h4>Manager<h4>
             <p>ID: ${job.id}</p>
@@ -15,7 +15,7 @@ const generateCards = teamData => {
 
     const engineer = teamData.engineer.map(function(job) {
         let engineerHtml = `
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 225px;">
             <h2>${job.name}</h2>
             <h4>Engineer<h4>
             <p>ID: ${job.id}</p>
