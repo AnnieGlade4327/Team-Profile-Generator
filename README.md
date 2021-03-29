@@ -21,7 +21,7 @@ Using Node and Jest this application will successfully test and generate an html
   ## Installation
       install node.js, clone repo, and run index.js
   ## Usage
-      will edit this later from other readme jsut getting basic template ready to copy over
+      Javascript, Node, and Bootstrap
   ## Credits
       U of U Bootcamp, myself, Bootstrap, Node, Javacript and Inquirer
   ## License
